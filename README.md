@@ -3,7 +3,7 @@
 
 # 📝 Completed my B.Tech in CS From Baba Farid College of Engineering & Technology  <br/>
 🔗 [LinkedIn](https://www.linkedin.com/in/riya-mehta-a925261b6/) <br/>
-🔗 [Gmail](riyamehta1608@gmail.com) <br/>
+
 
 
 # 💻 Tech Stack:
