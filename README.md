@@ -1,7 +1,7 @@
 # Hi, I'm Riya ✨
 
-📝 Currently pursuing B.Tech at Baba Farid College of Engineering & Technology <br/>
-👩🏻‍💻 Frontend Developer Intern at Pravidhi <br/>
+## 📝 Completed my B.Tech in CS From Baba Farid College of Engineering & Technology  <br/>
+## 👩🏻‍💻 Frontend Developer at Pravidhi <br/>
 🔗 [LinkedIn](https://www.linkedin.com/in/riya-mehta-a925261b6/) <br/>
 
 
